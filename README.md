@@ -20,7 +20,7 @@ Note: Please use php version 7.3 or less
 
 Then Run your local server http://127.0.0.1:8000/
 
-Thank you for install your application if you face any problem please let me know socal account -
+Thank you for install your application if you face any kind of problem to install and run the software please feel free to contact with me via socal account -
 
 # My Youtube Channel Link - https://www.youtube.com/c/MINIT61
 # Youtube Channel Name - MIN IT
