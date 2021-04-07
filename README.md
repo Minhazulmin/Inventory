@@ -8,7 +8,7 @@ This project is done by Laravel and Vue js .
 
 1. Install Composer Via link - https://getcomposer.org/download/
 2. Install Nodejs Via Link - https://nodejs.org/en/download/
-3 .git clone https://github.com/Minhazulmin/Inventory.git
+3. git clone https://github.com/Minhazulmin/Inventory.git
 4. Composer update
 5. copy .env.example .env
 6. php artisan key:generate
